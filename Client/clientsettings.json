@@ -1,0 +1,5 @@
+{
+  "Host": "localhost",
+  "Port": 5050,
+  "CertificateSha256": "PUT_SERVER_CERTIFICATE_SHA256_HERE"
+}
